@@ -1,2 +1,2 @@
 # C-language
-Basic programming of C language
+Basic programs
